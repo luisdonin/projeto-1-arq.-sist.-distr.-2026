@@ -1,4 +1,4 @@
-package br.edu.utfpr.td.tsi.ecommerce.produtos;
+package br.edu.utfpr.td.tsi.ecommerce.produtos.classes;
 
 import java.math.BigDecimal;
 
